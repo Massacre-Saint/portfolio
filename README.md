@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Journey Logs
+## Questions I asked myself:
+ - How do I create animations for a website besides vanilla CSS animations?
+    Found Threejs javascript library, Adobe Animate, Adobe XD
+    - Threejs is powerful for dynamic scene and seems to be more robust for my vision.
+ - How do draw or scult these animmations besides Canva or using flat vectors?
+    I could use a 3d software called Blender, pretty big learning curve as well.
+ ### So far I'll have Threejs and Blender as learning curves that will drag the front half of this website.
